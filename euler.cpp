@@ -34,5 +34,6 @@ int main ()
     }
     
     myfile.close();
+    cout<<"I just solved the problem"<<endl;
     return 0;
 }
