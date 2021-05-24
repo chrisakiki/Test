@@ -36,5 +36,6 @@ int main ()
     myfile.close();
     cout<<"I just solved the problem"<<endl;
     cout<<"Honestly, I just work here i don't know what i'm doing half the time i'm just learning as i go "<<endl;
+    cout<<"woah this is so freaking cool!!"<<endl;
     return 0;
 }
